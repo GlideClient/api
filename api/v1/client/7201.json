@@ -1,0 +1,15 @@
+{
+  "id": "7201",
+  "name": "7.2",
+  "java": {
+    "url": ""
+  },
+  "libraries": [
+    {
+      "name": "optifine",
+      "url": "",
+      "sha": "",
+      "size": 0
+    }
+  ]
+}
