@@ -1,0 +1,44 @@
+{
+  "linux": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/linux/x64.zip",
+      "sha256": "275cc99b946491b719cbfe196a314b9a494f900da475621898dd5da2d652f662",
+      "size": 42366962
+    }
+  },
+  "linux-i386": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/linux/i386.zip",
+      "sha256": "e719fec4398d5eed12d5b2e250cb9c5059e89b6c548eac82ca717494e8381c7c",
+      "size": 41603437
+    }
+  },
+  "macos": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/macos/x64.zip",
+      "sha256": "30c34ed322fb9a6b45170b2b70bc6f27d6c39789d82eedd2c4cac83d24e56daf",
+      "size": 41566040
+    }
+  },
+  "macos-arm64": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/macos/arm64.zip",
+      "sha256": "9fca2ef0720ca7029ae88af852339f09aec0d52a89605e8507c98a77690e1751",
+      "size": 41147408
+    }
+  },
+  "windows-x64": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/windows/x64.zip",
+      "sha256": "7ce1a7d9f0fc47e7da0aa1230a986b19110492e85fdfc69528498a0c05864d89",
+      "size": 40545300
+    }
+  },
+  "windows-x86": {
+    "zulu-8": {
+      "url": "https://cdn.glideclient.com/java/zulu-8/windows/x86.zip",
+      "sha256": "cbf20b2d13004621c57ecd08afca45f3a0edf110037690aaee002ded423e2457",
+      "size": 38246650
+    }
+  }
+}
