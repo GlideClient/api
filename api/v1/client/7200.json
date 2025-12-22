@@ -1,0 +1,21 @@
+{
+  "id": "7201",
+  "name": "7.2",
+  "java": {
+    "component": "zulu-8",
+    "version":8
+  },
+  "libraries": [
+    {
+      "name": "optifine",
+      "url": "https://cdn.glideclient.com/libraries/optifine/optifine.jar",
+      "sha256": "890254295d6de109fa4d1b0f28672be5192f0c377bbeb87691956c22a2da081c",
+      "size": 2584186
+    }
+  ],
+  "download": {
+    "url": "https://cdn.glideclient.com/client/7200/client.jar",
+    "sha256": "605ed8bcdba0a58d6595eab5b1f699a8c101c7b22b8470bf05975e4f152b31c0",
+    "size": 32618385
+  }
+}
