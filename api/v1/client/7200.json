@@ -30,5 +30,6 @@
     "sha256": "605ed8bcdba0a58d6595eab5b1f699a8c101c7b22b8470bf05975e4f152b31c0",
     "size": 32618385
   },
-  "manifest_url": "https://piston-meta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json"
+  "manifest_url": "https://piston-meta.mojang.com/v1/packages/d546f1707a3f2b7d034eece5ea2e311eda875787/1.8.9.json",
+  "tweakClass": "me.eldodebug.soar.injection.mixin.GlideTweaker"
 }
