@@ -3,7 +3,7 @@
   "name": "7.2 (7200)",
   "java": {
     "component": "zulu-8",
-    "version":8
+    "version": 8
   },
   "libraries": [
     {
@@ -11,6 +11,12 @@
       "url": "https://cdn.glideclient.com/libraries/optifine/optifine.jar",
       "sha256": "890254295d6de109fa4d1b0f28672be5192f0c377bbeb87691956c22a2da081c",
       "size": 2584186
+    },
+    {
+      "name": "launchwrapper",
+      "url": "https://cdn.glideclient.com/libraries/launchwrapper/launchwrapper.jar",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 32999
     }
   ],
   "download": {
