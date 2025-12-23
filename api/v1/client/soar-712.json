@@ -17,6 +17,12 @@
       "url": "https://cdn.glideclient.com/libraries/launchwrapper/launchwrapper.jar",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 32999
+    },
+    {
+      "name": "asm",
+      "url": "https://cdn.glideclient.com/libraries/asm/asm.jar",
+      "sha256": "fd996c3ed5b2a6014d5bf146fab06ac3ebca4e17452bc3b965c5241fdcd29dcc",
+      "size": 241639
     }
   ],
   "download": {
