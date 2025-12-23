@@ -1,6 +1,6 @@
 {
   "id": "7201",
-  "name": "7.2",
+  "name": "7.2 (7201)",
   "java": {
     "component": "zulu-8",
     "version":8

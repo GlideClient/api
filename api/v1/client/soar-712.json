@@ -1,6 +1,6 @@
 {
-  "id": "7200",
-  "name": "7.2 (7200)",
+  "id": "legacy-712",
+  "name": "Soar 7.1.2",
   "java": {
     "component": "zulu-8",
     "version":8
@@ -14,8 +14,8 @@
     }
   ],
   "download": {
-    "url": "https://cdn.glideclient.com/client/7200/client.jar",
-    "sha256": "605ed8bcdba0a58d6595eab5b1f699a8c101c7b22b8470bf05975e4f152b31c0",
-    "size": 32618385
+    "url": "https://cdn.glideclient.com/client/legacy-712/client.jar",
+    "sha256": "b91d78b5e6209b9524baea669160ea20d1f247462eee42071b2d96005949c340",
+    "size": 27501753
   }
 }
